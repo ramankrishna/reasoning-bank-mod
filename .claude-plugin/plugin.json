@@ -1,0 +1,25 @@
+{
+  "name": "reasoning-bank-mod",
+  "displayName": "ReasoningBank Lite",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.0",
+  "description": "Saves a lesson when a failing check is made to pass, recalls it on similar work, and tests whether that helps.",
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/reasoning-bank-mod",
+  "repository": "https://github.com/ramankrishna/reasoning-bank-mod",
+  "documentationUrl": "https://github.com/ramankrishna/reasoning-bank-mod#readme",
+  "supportUrl": "https://github.com/ramankrishna/reasoning-bank-mod/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/reasoning-bank-mod/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/reasoning-bank-mod/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "memory",
+    "lessons",
+    "agents",
+    "experiment"
+  ],
+  "types": "./types/index.d.ts"
+}

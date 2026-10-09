@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-reasoning-bank-mod",
+  "description": "ReasoningBank Lite, a mod for Claude Code by Rama Krishna Bachu.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "reasoning-bank-mod",
+      "source": "./",
+      "description": "Saves a lesson when a failing check is made to pass, recalls it on similar work, and tests whether that helps."
+    }
+  ]
+}

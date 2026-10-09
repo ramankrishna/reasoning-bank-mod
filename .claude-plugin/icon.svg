@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="ReasoningBank">
+  <rect width="512" height="512" rx="112" fill="#161b26"/>
+  <path d="M148 332 C148 232 204 176 256 176 C308 176 364 232 364 332" fill="none" stroke="#00dbb8" stroke-width="44" stroke-linecap="round"/>
+  <path d="M124 380 H388" fill="none" stroke="#00dbb8" stroke-width="44" stroke-linecap="round"/>
+  <circle cx="256" cy="288" r="28" fill="#f5c842"/>
+</svg>
